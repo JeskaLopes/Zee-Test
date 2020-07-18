@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&display=swap');
+
+.card-container{
+    font-family: 'Montserrat', sans-serif;
+    width: 75%;
+    padding: 3%;
+}
+
+.card-image-container{
+    width: 295px;
+    height: 158px;
+}
+
+.card-image-container img{
+    width: 91%;
+}
+
+.card-info{
+    font-weight: 400;
+}
+
+.card-info__title, .card-info__director{
+    font-weight: 600;
+}
+
+
+
